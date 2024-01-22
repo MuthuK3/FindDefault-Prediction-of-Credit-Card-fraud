@@ -1,3 +1,8 @@
+## Clone the github repository
+
+https://github.com/MuthuK3/FindDefault-Prediction-of-Credit-Card-fraud.git
+
+
 # Project Title
 
 Credit Card Fraud Detection
