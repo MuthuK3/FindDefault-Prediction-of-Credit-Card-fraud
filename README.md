@@ -13,6 +13,7 @@ The dataset contains transactions made in two days, with 492 frauds out of 284,8
 ## Code and Resources Used
 
 Python Version: Google colaboratory
+
 Packages: pandas, matplotlib, seaborn, numpy, sklearn, imblearn
 
 ## Project Detail
