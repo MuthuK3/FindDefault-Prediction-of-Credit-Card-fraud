@@ -18,12 +18,14 @@ Packages: pandas, matplotlib, seaborn, numpy, sklearn, imblearn
 ## Project Detail
 
 EDA :
+
   Checked for the null values in the dataset.
   Checked the imbalance in Class in the dataset.
   How the fraud and the non-fraudulent  occurs with respect to the transaction amount and distribution of the amount for positive(frauds) and negative(non-fraudulent) is shown in   a graph.
   Distribution of time also analysed as it doesnot largely affect the dataset.
 
 Data Preprocessing :
+
   The imbalance in data can be handled by many methods, here oversampling method SMOTE is used to deal with the imbalance in the data.
   After applying SMOTE the imbalnce in the data is handled by oversampling the positive class(frauds) with the same as negative class(non-frauds)
 
@@ -31,7 +33,7 @@ Model Training :
 
   The machine learning model used for this project is a Random Forest Classifier. Adjustments to hyperparameters and model evaluation metrics are discussed in the notebook.
 
-Results :
+## Results 
 
 The model achieved the following results on the test set,
 
@@ -42,5 +44,6 @@ The model achieved the following results on the test set,
 
 ## Conclusion
 
-    SMOTE solves the imbalance in the dataset by oversampling.
-    The model Random Forest Classifier applied to this dataset gives almost perfecr accuracy for the dataset.
+  SMOTE solves the imbalance in the dataset by oversampling.
+  The model Random Forest Classifier applied to this dataset gives almost perfecr accuracy for the dataset.
+
